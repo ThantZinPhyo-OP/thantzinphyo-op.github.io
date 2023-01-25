@@ -1,13 +1,12 @@
 <h2 align="center"> HTML, CSS & Javascript for Web Developers (Johns Hopkins University)<br/>
 </h2>
 
-<h3 align="center">Assignments Of the Coursera Course (HTML, CSS & Javascript for Web Developers By Johns Hopkins University)<br/>
-</h3>
+
 
 ![Course Completion certificate](https://github.com/ThantZinPhyo-OP/thantzinphyo-op.github.io/blob/main/Certificate.jpg)
 
 
-# Assignments : 
+Assignments : 
 
 * Module-1 - Quiz 
 * Module-2 - Coding
@@ -16,7 +15,7 @@
 * Module-5 - Coding
 
 
-# Projects :
+Projects :
 
 * [Module-2](https://thantzinphyo-op.github.io/Assignment/Module-2/index.html)
 * [Module-3](https://thantzinphyo-op.github.io/Assignment/Module-3/index.html)
