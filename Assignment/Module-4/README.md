@@ -1,8 +1,6 @@
 
-# Module-4 Coding Assignment
+* Module-4 Coding Assignment
 
-Coursera course: HTML, CSS, and Javascript for Web Developers
+* Coursera course: HTML, CSS & Javascript For Web Developers
 
-# To see the output [CLICK HERE](https://thantzinphyo-op.github.io/Assignment/Module-4/index.html)
-
-
+* To see the Output [CLICK HERE](https://thantzinphyo-op.github.io/Assignment/Module-4/index.html)
