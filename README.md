@@ -2,7 +2,7 @@
 
 Assignments Of the Coursera Course (HTML, CSS & Javascript for Web Developers By Johns Hopkins University)
 
-![Course Completion certificate](https://thantzinphyo-op.github.io/Certificate.jpg)
+![Course Completion certificate](https://github.com/ThantZinPhyo-OP/thantzinphyo-op.github.io/blob/main/Certificate.jpg)
 
 
 # Assignments : 
